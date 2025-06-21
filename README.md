@@ -16,7 +16,7 @@ This is a simple clone of the Udemy website, built using only HTML and CSS. The 
 - CSS3 
 ## How to view
 
-You can access my portfolio website by visiting [] feel free to explore the cintent and get in touch!
+You can access my portfolio website by visiting [https://github.com/sudhev24/udemy-clone-website] feel free to explore the cintent and get in touch!
 
 ## Contributing
 
