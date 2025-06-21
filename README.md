@@ -14,3 +14,12 @@ This is a simple clone of the Udemy website, built using only HTML and CSS. The 
 
 - HTML5
 - CSS3 
+## How to view
+
+You can access my portfolio website by visiting [] feel free to explore the cintent and get in touch!
+
+## Contributing
+
+If you'd like to contribute or suggest improvement, please feel free to open am issue or create a pull request. Your feedback is greatly appreciated.
+
+Thankyou for visiting my website
